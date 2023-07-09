@@ -1,0 +1,8 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="Aplicación_números_pares_del_0_al_100.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:Aplicación_números_pares_del_0_al_100.WinUI">
+
+</maui:MauiWinUIApplication>
