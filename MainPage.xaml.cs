@@ -6,7 +6,7 @@ public partial class MainPage : ContentPage
 
     /// <summary>
     /// <Createdate>7/7/2023</Createdate>
-    /// <Company>SandBox</Company>
+    /// <Company>USB Technology</Company>
     /// <Lastmodificationdate>7/7/2023</Lastmodificationdate>
     /// <Lastmodificationdescription>Se agrego un DisplayAlert que imprime los numeros pares</Lastmodificationdescription>
     /// <Lastmodificationautor>Lorena Vazquez,Nery Méndez</Lastmodificationautor>
